@@ -1,6 +1,6 @@
 ### Olá! eu sou Alan Lima
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alanlimalj)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alanlimalj)
 [![lINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanlima01)
 
 ![Alan GitHub stats](https://github-readme-stats.vercel.app/api?username=Alanlimaj&show_icons=true&theme=dark)
